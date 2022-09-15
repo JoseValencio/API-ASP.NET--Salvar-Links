@@ -1,5 +1,6 @@
 # API ASP.NET -Salvar-Links
 
-Projeto desenvolvido para salver Links de artigos 
+Projeto CRUD desenvolvido para salvar Links de artigos 
 Foi utilizado o ASP.NET core
 utilizando o Entity FrameWork 6
+Banco de dados SQLSERVER
